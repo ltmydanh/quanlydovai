@@ -19,9 +19,7 @@
 
 <body>
     <div>
-    <jsp:include page="menu.jsp" />
-    <jsp:include page="login.jsp" /> 
-    
+    <jsp:include page="menu.jsp" />   
    
    </div>
 </body>

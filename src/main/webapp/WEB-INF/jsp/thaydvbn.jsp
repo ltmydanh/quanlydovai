@@ -24,12 +24,21 @@
                 </tr>
                 
                 <tr>
+                    <td>Ngày thay</td>
+                    <td><input type="date" name="ngay" size="30" placeholder=""></td>
+                </tr>
+                
+                <tr>
+                    <td>Mã BN</td>
+                    <td><input type="text" name="mabn" size="30" placeholder=""></td>
+                </tr>
+                
+                <tr>
                     <td>Tên bệnh nhân</td>
-                    <td><input type="text" name="donvi" size="30" placeholder=""></td>
+                    <td><input type="text" name="tenbn" size="30" placeholder=""></td>
                 </tr>
                                 
-                
-                          
+                                         
                  <tr>
                     <td>Tên đồ vải</td>
                     <td>

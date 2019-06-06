@@ -33,7 +33,10 @@
                     <td><input type="text" name="donvi" size="30" placeholder=""></td>
                 </tr>
                         
-                
+                <tr>
+                    <td>Ngày mượn</td>
+                    <td><input type="date" name="ngay" size="30" placeholder=""></td>
+                </tr>
                  <tr>
                     <td>TT</td>
                     <td><input type="text" name="tt" size="30" placeholder=""></td>

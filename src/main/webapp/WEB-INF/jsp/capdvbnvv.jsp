@@ -1,6 +1,6 @@
 <%-- 
-    Document   : thaydvbn
-    Created on : Jun 5, 2019, 2:04:40 PM
+    Document   : capdvbnvv
+    Created on : Jun 6, 2019, 7:56:47 AM
     Author     : My Danh
 --%>
 
@@ -8,24 +8,24 @@
 <!DOCTYPE html>
 <html>
     <head>
-       
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Phiếu cấp đồ vải bệnh nhân khi vào viện</title>
     </head>
     <body>
-        <h1>Phiếu thay đồ vải bệnh nhân tại giường</h1>
-         <form class="thaydvbn">
+         <form class="capdvvv">
             <table>
                 <tr>
                     <td>Bệnh viện</td>
                 </tr>
                 
                 <tr>
-                    <td>Viện/Khoa</td>
-                    <td><input type="text" name="donvi" size="30" placeholder=""></td>
+                    <td>Ngày</td>
+                    <td><input type="date" name="ngay" size="30" placeholder=""></td>
                 </tr>
                 
                 <tr>
-                    <td>Ngày thay</td>
-                    <td><input type="date" name="ngay" size="30" placeholder=""></td>
+                    <td>Đơn vị</td>
+                    <td><input type="text" name="donvi" size="30" placeholder=""></td>
                 </tr>
                 
                 <tr>
@@ -35,10 +35,11 @@
                 
                 <tr>
                     <td>Tên bệnh nhân</td>
-                    <td><input type="text" name="tenbn" size="30" placeholder=""></td>
+                    <td><input type="text" name="donvi" size="30" placeholder=""></td>
                 </tr>
                                 
-                                         
+                
+                          
                  <tr>
                     <td>Tên đồ vải</td>
                     <td>

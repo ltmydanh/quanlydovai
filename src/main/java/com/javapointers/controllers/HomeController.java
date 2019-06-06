@@ -13,6 +13,19 @@ public class HomeController {
     public String home(){
         return "redirect:home"; 
 }
+    @RequestMapping(value="/dsmdv", method = RequestMethod.GET)
+    public String viewDS(){
+        return "dsmdv";
+    }
+    @RequestMapping(value="/dsmdvvv", method = RequestMethod.GET)
+    public String viewDSVV(){
+        return "dsmdvvv";
+    }
+    @RequestMapping(value="/dsthaydvtg", method = RequestMethod.GET)
+    public String viewMDVTG(){
+        return "dsthaydvtg";
+    }
+    
     @RequestMapping(value="/phieumuondv", method = RequestMethod.GET)
     public String viewPM(){
         return "phieumuondv";
@@ -22,10 +35,11 @@ public class HomeController {
     public String viewBN(){
         return "thaydvbn";
     }
-    
-    @RequestMapping(value="/dsmdv", method = RequestMethod.GET)
-    public String viewDS(){
-        return "dsmdv";
+        @RequestMapping(value="/capdvbnvv", method = RequestMethod.GET)
+    public String viewBNVV(){
+        return "capdvbnvv";
     }
+    
+    
     
 }

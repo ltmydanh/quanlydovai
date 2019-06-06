@@ -21,15 +21,18 @@
             <li><a href="" >Các loại ĐV</a></li>
             <li><a href="" >DS mượn ĐV</a>
                 <ul class="sub-menu">
-                    <li><a href="/Demo1/dsmdv">Phòng khoa</a></li>
+                    <a href="/Demo1/dsmdv">Phòng khoa</a><br>
+                    <a href="/Demo1/dsmdvvv">Bệnh nhân vào viện</a><br>
+                    <a href="/Demo1/dsthaydvtg">Bệnh nhân thay đồ vải tại giường</a>
                 </ul>
             </li>
             
             <li><a href="" >NX công tác phục vụ</a></li>
-            <li><a href="" >Biểu mẫu</a>
+            <li><a href="" >Phiếu mượn</a>
                 <ul class="sub-menu">
-                    <li><a href="/Demo1/phieumuondv">Phiếu mượn khoa</a></li><br>
-                    <li><a href="/Demo1/thaydvbn">Phiếu mượn bệnh nhân</a></li>
+                    <a href="/Demo1/phieumuondv">Phiếu mượn đồ vải Khoa/Viện</a><br>
+                    <a href="/Demo1/thaydvbn">Phiếu mượn thay đồ vải bệnh nhân tại giường</a><br>
+                    <a href="/Demo1/capdvbnvv">Phiếu cấp phát đồ vải cho bệnh nhân vào viện</a>
                     
                  </ul>
             </li>

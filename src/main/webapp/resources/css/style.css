@@ -35,7 +35,7 @@
 }
 
 .menu a:hover, a:active {
-  background-color: #0000FF;
+  color: red;
 }
 
 .sub-menu {
