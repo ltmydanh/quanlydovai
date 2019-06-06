@@ -40,6 +40,10 @@ public class HomeController {
         return "capdvbnvv";
     }
     
+       @RequestMapping(value="/nhanxet", method = RequestMethod.GET)
+    public String viewNX(){
+        return "nhanxet";
+    }
     
     
 }

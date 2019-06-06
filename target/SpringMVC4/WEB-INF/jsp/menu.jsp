@@ -27,7 +27,7 @@
                 </ul>
             </li>
             
-            <li><a href="" >NX công tác phục vụ</a></li>
+            <li><a href="/Demo1/nhanxet" >NX công tác phục vụ</a></li>
             <li><a href="" >Phiếu mượn</a>
                 <ul class="sub-menu">
                     <a href="/Demo1/phieumuondv">Phiếu mượn đồ vải Khoa/Viện</a><br>
